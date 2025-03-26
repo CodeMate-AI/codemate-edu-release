@@ -3,7 +3,7 @@
 ## 📥 Installation
 
 1. **Download & Run Setup**  
-   Double-click on `setup.exe` to start the installation process.
+   Double-click on [`setup.exe`](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.exe) to start the installation process.
 
 2. **Follow the Installation Steps**  
    The installer will guide you through the necessary steps. Click **Next** and complete the setup.
