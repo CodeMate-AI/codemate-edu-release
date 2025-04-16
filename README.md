@@ -8,7 +8,7 @@ Welcome to **CodeMate**, This guide will walk you through the installation and u
 
 ### 📥 Step 1: Download the Installer
 Click below to download the latest CodeMate setup for Windows:  
-[CodeMate Setup for Windows](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.exe)
+[CodeMate Setup for Windows](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate_Setup.exe)
 
 ### 🧑‍💻 Step 2: Install the Application
 - Double-click the downloaded `CodeMate.Setup.exe` file.
@@ -29,12 +29,31 @@ Click below to download the latest CodeMate setup for Windows:
 
 ### 📥 Step 1: Download the Installer
 Click below to download the setup file for macOS:  
-[CodeMate Setup for macOS](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.mac)
+[CodeMate Setup for macOS](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate_Setup_mac)
 
-### 🧑‍💻 Step 2: Install the Application
+## 🧑‍💻 Step 2: Install the Application
+
 - Double-click the downloaded setup file.
 - Follow the on-screen instructions to complete the installation.
 - A shortcut will appear in your **Applications Menu**.
+- If you see a warning that the app can’t be opened because it's from an unidentified developer:
+  - Open **System Settings** > **Privacy & Security**.
+  - Scroll down to find a message saying "**CodeMate_Setup_mac was blocked from use**."
+  - Click **Open Anyway**, then confirm again in the prompt that appears.
+
+## 🔓 Step 3: Grant Execute Permission (if needed)
+
+If the app doesn’t run properly after installation, try making the file executable:
+
+1. Open the **Terminal**.
+2. Navigate to the folder containing the downloaded file:
+   ```bash
+   cd ~/Downloads 
+   ```
+3. Run the following command:
+   ```bash
+   chmod +x CodeMate_Setup_mac   
+```
 
 ### ⚙️ Step 3: Run the Compiler Service
 - Open the **CodeMate Compiler Service** from the Applications Menu.
@@ -49,7 +68,7 @@ Click below to download the setup file for macOS:
 
 ### 📥 Step 1: Download the Installer
 Click below to download the setup file for Linux:  
-[CodeMate Setup for linux](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.linux.Setup)
+[CodeMate Setup for linux](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate_Setup_linux)
 
 
 ### 📥 Step 2: Open Terminal and Navigate to Setup Folder
@@ -59,12 +78,12 @@ cd /path/to/download/folder
 
 ### 🔐 Step 3: Grant Execute Permission
 ```bash
-chmod +x ./CodeMate\ Setup
+chmod +x ./CodeMate_Setup_linux
 ```
 
 ### 🧑‍💻 Step 4: Run the Setup
 ```bash
-./CodeMate\ Setup
+./CodeMate_Setup_linux
 ```
 
 ### ⚙️ Step 5: Start the Compiler Service
