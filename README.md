@@ -8,7 +8,7 @@ Welcome to **CodeMate**, This guide will walk you through the installation and u
 
 ### 📥 Step 1: Download the Installer
 Click below to download the latest CodeMate setup for Windows:  
-[CodeMate Setup for Windows](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.win.exe)
+[CodeMate Setup for Windows](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.exe)
 
 ### 🧑‍💻 Step 2: Install the Application
 - Double-click the downloaded `CodeMate.Setup.exe` file.
@@ -25,11 +25,11 @@ Click below to download the latest CodeMate setup for Windows:
 
 ---
 
-## 🍎 macOS Installation Guide
+##  macOS Installation Guide
 
 ### 📥 Step 1: Download the Installer
 Click below to download the setup file for macOS:  
-[CodeMate Setup for macOS](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.mac.1)
+[CodeMate Setup for macOS](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.mac)
 
 ### 🧑‍💻 Step 2: Install the Application
 - Double-click the downloaded setup file.
