@@ -1,36 +1,87 @@
-# CodeMate Compiler Service - Setup Guide
+# 🚀 CodeMate Compiler Service - Installation & Usage Guide
 
-## 📥 Installation
-
-1. **Download & Run Setup**  
-   Double-click on [`setup.exe`](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.exe) to start the installation process.
-
-2. **Follow the Installation Steps**  
-   The installer will guide you through the necessary steps. Click **Next** and complete the setup.
-
-3. **Shortcut Creation**  
-   After installation, a shortcut will be created on your **Desktop** and in the **Start Menu**.
+Welcome to **CodeMate**, This guide will walk you through the installation and usage of the CodeMate Compiler Service on **Windows**, **macOS**, and **Ubuntu** systems.
 
 ---
 
-## 🚀 Running CodeMate Compiler Service
+## 🪟 Windows Installation Guide
 
-1. **Start the Service**  
-   - Double-click the **CodeMate Compiler Service** shortcut from the **Desktop** or **Start Menu**.
-   - Once launched, it will minimize and run in the **taskbar near the clock** (also known as the system tray).
+### 📥 Step 1: Download the Installer
+Click below to download the latest CodeMate setup for Windows:  
+[CodeMate Setup for Windows](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.win.exe)
 
-2. **Using the Compiler Service**  
-   - Click on the **CodeMate Compiler icon** in the taskbar.
-   - A menu will appear with various options to help you compile and run code efficiently.
+### 🧑‍💻 Step 2: Install the Application
+- Double-click the downloaded `CodeMate.Setup.exe` file.
+- Follow the on-screen instructions to complete the installation.
+- A shortcut will be created on your **Desktop** and in the **Start Menu**.
 
-3. **Stopping the Service**  
-   - Right-click the **CodeMate Compiler icon** in the taskbar.
-   - Choose **Exit** to stop the service.
+### ⚙️ Step 3: Run the Compiler Service
+- Double-click the **CodeMate Compiler Service** shortcut.
+- The service will minimize and run in the **system tray** near the clock.
+
+### 🛑 Step 4: Stop the Compiler Service
+- Right-click the **CodeMate Compiler icon** in the system tray.
+- Click **Stop** to shut down the service.
 
 ---
 
-## ❓ Need Help?
-For any issues, reach out to our support team or check our online documentation.
+## 🍎 macOS Installation Guide
 
-Happy Coding! 🎉
+### 📥 Step 1: Download the Installer
+Click below to download the setup file for macOS:  
+[CodeMate Setup for macOS](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.mac.1)
 
+### 🧑‍💻 Step 2: Install the Application
+- Double-click the downloaded setup file.
+- Follow the on-screen instructions to complete the installation.
+- A shortcut will appear in your **Applications Menu**.
+
+### ⚙️ Step 3: Run the Compiler Service
+- Open the **CodeMate Compiler Service** from the Applications Menu.
+- The service will automatically start running in the background.
+
+### 🛑 Step 4: Stop the Compiler Service
+- Open the app and click **Stop** to shut down the service.
+
+---
+
+## 🐧 Ubuntu Installation Guide
+
+### 📥 Step 1: Download the Installer
+Click below to download the setup file for Linux:  
+[CodeMate Setup for linux](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate.Setup.linux.Setup)
+
+
+### 📥 Step 2: Open Terminal and Navigate to Setup Folder
+```bash
+cd /path/to/download/folder
+```
+
+### 🔐 Step 3: Grant Execute Permission
+```bash
+chmod +x ./CodeMate\ Setup
+```
+
+### 🧑‍💻 Step 4: Run the Setup
+```bash
+./CodeMate\ Setup
+```
+
+### ⚙️ Step 5: Start the Compiler Service
+```bash
+~/.cache/.codemate/CodeMate\ Compiler\ Service
+```
+
+### 🛑 Step 6: Uninstall CodeMate
+```bash
+cd ~/.cache/.codemate/
+```
+```bash
+./CodeMate\ Uninstaller
+```
+
+---
+
+## 🆘 Need Help?
+
+If you encounter any issues or have questions, please reach out to our support team at contact@codemateai.dev
