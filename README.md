@@ -8,7 +8,7 @@ Welcome to **CodeMate**, This guide will walk you through the installation and u
 
 ### 📥 Step 1: Download the Installer
 Click below to download the latest CodeMate setup for Windows:  
-[CodeMate Setup for Windows](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate_Setup.exe)
+[CodeMate Setup for Windows](https://github.com/CodeMate-AI/codemate-edu-release/releases/download/v2.1.1/CodeMate_Setup_v2.1.1.exe)
 
 ### 🧑‍💻 Step 2: Install the Application
 - Double-click the downloaded `CodeMate.Setup.exe` file.
