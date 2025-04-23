@@ -1,7 +1,6 @@
-
 # CodeMate Compiler Service - Installation & Usage Guide
 
-Welcome to **CodeMate**, This guide will walk you through the installation and usage of the CodeMate Compiler Service on **Windows**, **macOS**, and **Ubuntu** systems.
+Welcome to **CodeMate**, This guide will walk you through the installation and usage of the CodeMate Compiler Service on **Windows**, **macOS**, and **Linux** systems.
 
 ---
 
@@ -63,7 +62,7 @@ If the app doesn't run properly after installation, try making the file executab
 
 ---
 
-## Ubuntu Installation Guide
+## Linux Installation Guide
 
 ### Step 1: Download the Installer  
 Click below to download the setup file for Linux:  
